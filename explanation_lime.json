@@ -1,0 +1,23 @@
+{
+      "2020-02-08 17:15:58": [
+            "Current",
+            "Pressure",
+            "Temperature",
+            "Thermocouple",
+            "Voltage"
+      ],
+      "2020-02-08 17:15:59": [
+            "Accelerometer1RMS",
+            "Accelerometer2RMS",
+            "Current",
+            "Temperature",
+            "Thermocouple"
+      ],
+      "2020-02-08 17:25:52": [
+            "Current",
+            "Temperature",
+            "Thermocouple",
+            "Voltage",
+            "Volume Flow RateRMS"
+      ]
+}
